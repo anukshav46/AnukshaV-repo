@@ -1,0 +1,179 @@
+.main{
+    background:rgba(128, 128, 128, 0.712);
+}
+h2{ 
+    font-size:220%;
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 3%;
+    padding-bottom:3%; 
+    color:black;
+    border:1.9px solid rgb(73, 234, 255);
+    width:30%;
+    margin-left:35%;
+    margin-right:35%;  
+}
+.intro{
+    background:url("IMG_0036\ \(2\).JPG"),linear-gradient(to bottom right,#32cf93cc,rgb(33, 134, 138),rgb(9, 99, 91)) ;
+    width: auto;
+    height:500px;
+    text-align:center;
+    padding-top:4%;
+    background-size:cover;   
+}
+img{
+    border-radius:50%;
+    height:40%;   
+}
+div.about h3{
+    font-size: 2rem;
+    font-weight:lighter;
+    color:rgba(0,0,0);
+    background:rgba(240, 255, 28, 0.8);
+    border:1px solid white;
+    width:22%;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.about{
+    background:linear-gradient(#AF6480,#8697b9);
+    box-shadow: 1.5px 1.5px 6px 6px  rgb(61, 58, 58);
+    width:auto;
+    height:20%;
+    margin:1.8%;
+    padding-left:0.8%;
+    padding-top:0.1%;
+    display:inline-block;
+}
+div.about p{
+    color:black;
+    font-size:1.3rem;
+    text-align: left;
+    font-family:cursive;
+    font-weight: lighter;
+}
+div.goals h3{
+    background:rgba(240, 255, 28, 0.8);
+    border:1px solid white;
+    width:50%;
+    text-align:center;
+    color:black;
+    margin-left:6%;
+    font-size:1.8rem;
+    font-weight: lighter;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.goals{
+    width:46%;
+    height:20rem;
+    color:black;
+    background:linear-gradient(#AF6480,#8697b9);
+    box-shadow: 1.5px 1.5px 6px 6px  rgb(61, 58, 58);
+    display:inline-block;
+    margin:1.8%;
+    
+}
+div.goals ul{
+    font-family:cursive;
+    font-weight: lighter;
+    font-size: 1.3rem;
+}
+div.skills h3{
+    background:rgba(240, 255, 28, 0.8);
+    border:1px solid white;
+    color:black;
+    font-weight: lighter;
+    width:35%;
+    text-align:center;
+    margin-left: 6%;
+    font-size: 1.8rem;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.skills{
+    width:46%;
+    height:20rem;
+    float:right;
+    display:inline-block;
+    background:linear-gradient(#AF6480,#8697b9);
+    box-shadow: 1.5px 1.5px 6px 6px  rgb(61, 58, 58);
+    color:black;
+    margin:1.8%;
+}
+div.skills p{
+    font-size: 1.3rem;
+    text-align:none;
+    padding-left:6% ;
+    font-family:cursive;
+    font-weight: lighter;
+}
+#progress{
+    height:2.1rem;
+    
+}
+.academics{
+    background:linear-gradient(#AF6480,#8697b9);
+    box-shadow: 1.5px 1.5px 6px 6px  rgb(61, 58, 58);
+    width:auto;
+    height:20%;
+    margin:1.8%;
+    padding-left:2%;
+    padding-top:0.6%;
+}
+div.academics h3{
+    background:rgba(240, 255, 28, 0.8);
+    border:1px solid white;
+    width:30%;
+    color:black;
+    text-align: center;
+    font-size: 1.8rem;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+div.academics p{
+    color:black;
+    font-size: 1.3rem;
+    font-family:cursive;
+    font-weight: lighter;
+
+}
+.project{
+    color:black;
+    background:linear-gradient(#AF6480,#8697b9);
+    box-shadow: 1.5px 1.5px 6px 6px  rgb(61, 58, 58);
+    font-size:1.4rem;
+    width:auto;
+    height: 20%;
+    font-weight: lighter;
+    margin:1.8%;
+    padding-left:2%;
+    padding-top:0.6%;
+}
+div.project p{
+    font-size:1.3rem;
+    font-family:cursive;
+    font-weight: lighter;
+}
+div.project h3{
+    background:rgba(240, 255, 28, 0.8);
+    border:1px solid white;
+    color:black;
+    width:25%;
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:1.8rem;
+    font-weight: lighter;
+}
+.contact{
+    margin-left:45%;
+
+}
+.linkedin{
+    width:4rem;
+
+}
+.git{
+    width:4.8rem;
+}
+.copyright{
+    text-align:center;
+}
